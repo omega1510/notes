@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: Omega1510's School Notes
 
 theme:
     name: 'material'
@@ -7,8 +7,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
-      accent: indigo
+      primary: purple
+      accent: pink
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
