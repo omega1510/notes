@@ -1,6 +1,6 @@
-# Obsidian Notes
+# European History Obsidian Notes
 ---
 
-Notes for [RISE Academy](https://riseacademy.education/), made with obsidian.
+Notes for AP European History at [RISE Academy](https://riseacademy.education/), made with [Obsidian](https://obsidian.md).
 
-Start looking around!
+I would start with the Italian Renaissance, and continue from there!

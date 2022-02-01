@@ -28,7 +28,7 @@ Peter the Great established the Russian Academy of Science in 1725, which expand
 ### Catherine the Great #person 
 Peter’s successor Catherine the Great continued to bring about reforms.
 - She enhanced education in Russia and started state schools for women
-- She patronized Enlightenment art and writers.
+- She patronized [[Enlightenment]] art and writers.
 - She began to remove the Eastern Orthodox Church from the Russian state by selling their lands.
 - She gave nobles more freedom and required less government participation.
 - She reinforced serfdom and made the Russian economy dependent on it.

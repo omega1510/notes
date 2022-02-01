@@ -15,6 +15,8 @@ This forced thousands of people into cities. Combined with the naturally rising 
 
 Related: [[Early Modern Society#City Life]]
 
+![[Agricultural Revolution#Agricultural Revolution]]
+
 ## Commercialization in Europe
 The Enclosure Movement was the beginning of commercialization in Europe – the harvesting and selling of crops by landowners for profit. Some new economic ideas, such as printed money, banks, loans, and credit had made their way to Europe through Italy.
 
