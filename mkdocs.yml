@@ -17,6 +17,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: blue
+      secondary: purple
       accent: grey
       toggle:
         icon: material/toggle-switch
