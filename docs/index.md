@@ -3,7 +3,7 @@
 
 Notes for AP European History at [RISE Academy](https://riseacademy.education/), made with [Obsidian](https://obsidian.md).
 
-I would start with the Italian Renaissance, and continue from there!
+I would start with the [[Italian Renaissance]], and continue from there!
 
 ---
 
@@ -58,5 +58,8 @@ I would start with the Italian Renaissance, and continue from there!
 1. [[Congress of Vienna]]
 1. [[National Movements]]
 1. [[Liberalism]]
-1. [[Nationalism and Anarchism]]
+1. [[Nationalism]]
 1. [[Various Revolutions]]
+1. [[Anarchism]]
+1. [[Chartism]]
+1. [[Communism]]

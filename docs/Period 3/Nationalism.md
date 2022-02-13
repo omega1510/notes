@@ -1,4 +1,4 @@
-# Nationalism and Anarchism
+# Nationalism
 ---
 
 ## Nationalism
@@ -8,7 +8,7 @@ One impact it had on Europe was that it created another deep divide, similar to 
 
 For example, the Franco-Prussian war and later imperial colonization in Africa were propelled by national competition.
 
-### Pan-Slavism
+## Pan-Slavism
 While [[National Movements#Dual Monarchy Austria-Hungary|nationalist tensions in Austria]] had resulted in an autonomous Hungary and Croatia-Slovenia, the Slavs under Ottoman control were not so fortunate. During the late 19th and early 20th centuries, violent protests, rebellions, and terrorist acts began to increase in the Balkans as Slavs fought for their independence.
 
 This became known as Pan-Slavism. The powers of Europe were split on whether to support it against the Ottoman Empire or oppose it as it grew larger and more violent. It would result in violence as Serbia and Bulgaria were established. The Balkans won freedom from the Ottomans, but large numbers of Serbs and Bulgars remained under Ottoman control until the final thrust of Slavic nationalism chased the Ottoman Empire almost completely from Europe after the First Balkan War.
@@ -25,9 +25,3 @@ During a period of widespread anti-Semitism, a new movement grew as many Jews ca
 
 While Jewish theft began after World War I, the state of Israel would not be established until 1948. The Jews, with the help of France, chased Palestinians out of their homes with grenades, not allowing them back. In this way, they established a new, Jewish state.
 
-## Anarchism
-There were some people who were not moved by nationalist sentiments, instead arguing against nations and governments. Founded by Mikhail Bakunin, anarchism was the belief that all forms of government are inherently oppressive and should therefore be abolished.
-
-Coming from Tsarist Russia, Bakunin saw the devastation and poor treatment faced by Eastern Europeans in the face of imperial Russia, Austria, and Prussia. He also grew frustrated with governments’ [[Socialism|socialist]] reforms, instead trying to keep workers unprotected. To Bakunin, governments were corrupt instruments of powerful people, and he believed people should live without them in small, industrial communities. These communities were largely self-governing, similarly to how Europe operated in the Middle Ages.
-
-To protect and spread their ideas, Anarchists usually turned violent. They opposed governments by bombing buildings and killing officials.

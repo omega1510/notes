@@ -1,10 +1,7 @@
 # Early Industrial Society
 ---
 
-## Pro [[Capitalism]] Laws
-Great Britain’s and the Netherlands’ [[Gentry]] government removed limitations on manufacturing, such as guilds and tariffs. People moved freely, working or investing in whatever they were passionate about. Additionally, governments began to provide monetary incentives (Nobel Prize), as well as patents to protect inventor rights.
-
-One of the best examples of this approach was when they repealed the Corn Laws (a tariff on grains). A potato fungus from the Americas came to Europe in the 1849s, devastating the key crop in Northern and Western Europe. This caused massive famines, especially in Ireland, resulting in mass death and emigration to the United States. The British parliament removed the Corn Laws to allow for better trade and cheaper grain in times of famine.
+![[Capitalism#Pro-Capitalism Laws]]
 
 ## Creation of New Classes
 The [[Industrial Revolution]] caused the formation of two new classes: the middle and working class.

@@ -9,7 +9,7 @@ Luther believed that people should interpret the bible for themselves and not de
 
 Without a powerful figure like the Pope to center his branch around, Luther resorted to using the printing press and other leaders to spread his message. He coupled his writings with Bibles printed in local languages, allowing them to spread like wildfire. While only some people were literate, people often gathered in towns to have Luther’s message read to them.
 
-The ease of access that the printing press provided to Luther’s works was vital in ensuring the Protestant Reformation’s swift growth. Furthermore, this contributed to the development of common vernacular language and grammar, helping develop [[Nationalism and Anarchism|Nationalism]] and a sense of community in the modern era. ^e5a436
+The ease of access that the printing press provided to Luther’s works was vital in ensuring the Protestant Reformation’s swift growth. Furthermore, this contributed to the development of common vernacular language and grammar, helping develop [[Nationalism|Nationalism]] and a sense of community in the modern era. ^e5a436
 
 Most nobles did not agree with Luther’s ideas but instead embraced Protestantism with the hope that they could take the Church’s land and riches. The Roman Catholic Church had started losing noble followers because of this affluent thought process and their money-generating practices. The Protestant branch of Christianity fit like a glove: they could break free from the Pope’s power and make their own religious laws by interpreting the Bible how they wanted to understand it. No longer was the nobles’ wealth bound by religious guidelines they disagreed with.
 

@@ -12,11 +12,11 @@ In Southern Europe, the War of Greek Independence was waged by Greek revolutiona
 Following years of negotiation, Russia, Britain, and France decided to intervene in the conflict and each nation sent a navy to Greece. By 1828, the Egyptian army withdrew under pressure of a French expeditionary force. The Ottoman garrisons then surrendered, while the Greeks reclaimed the Ottoman-controlled parts of the country. After eight years of war, Greece was finally recognized as an independent, sovereign state under the London Protocol of February 1830.
 
 ## Revolutions of 1848 #war, France
-While [[Absolutism]] continued into the mid-19th century, a growing call for Republican and Enlightenment ideals grew, as well as calls for unification and [[Nationalism and Anarchism]].
+While [[Absolutism]] continued into the mid-19th century, a growing call for Republican and Enlightenment ideals grew, as well as calls for unification and [[Nationalism]].
 
 Starting in France, poor economic conditions and famine created a very unhappy situation for the French people in 1848, so they called for a constitution. The king, Louis-Philippe #person, refused, stating that he had already taken noble rights and allowed regular people to participate in government. This resulted in Paris being quickly overrun by middle and lower class Frenchmen, who overthrew the government. France now established an official republic with a constitution, [[Gentry]] parliament, and a President - both elected with complete male suffrage.
 
-News of this new republic spread via newspaper, and nearly ever major city in all of Europe began their own revolution. Empowered by both liberal ideals and [[Nationalism and Anarchism]], revolutions popped up quickly in Italy, Germany, Austria, Hungary, etc. [[Congress of Vienna|Metternich]] fled in fear from Austria, as all governments were either removed or met the demands of the revolutionaries. Nobles were removed, constitutions drafted, and a new era of change began.
+News of this new republic spread via newspaper, and nearly ever major city in all of Europe began their own revolution. Empowered by both liberal ideals and [[Nationalism]], revolutions popped up quickly in Italy, Germany, Austria, Hungary, etc. [[Congress of Vienna|Metternich]] fled in fear from Austria, as all governments were either removed or met the demands of the revolutionaries. Nobles were removed, constitutions drafted, and a new era of change began.
 
 ## Impacts of the Revolutions
 - While some revolutions did fail, they also showcased the instability in Europe's feudal system.

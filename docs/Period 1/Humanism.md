@@ -45,8 +45,6 @@ With a focus on the individual and a break from the importance of traditional th
 
 In the Middle Ages, politics were ruled by the idea that a king, prince, or noble ought to rule as a just and moral Christian. Machiavelli argued that this was an ineffective approach; instead, a ruler should use whatever means necessary to obtain and run a kingdom. In his book, ***The Prince*** #book, Machiavelli outlined that in politics, anything goes, as long as it works.
 
-BTW, this guy is an absolute chad. Read these quotes:
-
 > The lion cannot protect himself from traps, and the fox cannot defend himself from wolves. One must therefore be a fox to recognize traps, and a lion to frighten wolves.
 
 > If an injury has to be done to a man it should be so severe that his vengeance need not be feared.
