@@ -45,9 +45,9 @@ This economic drop in prices and wages resulted in large amounts of unemployment
 ## Protectionism
 Following numerous market failures, crashes, and famines, the governments of Europe began to abandon laissez-faire policies between one another int he 1870s. Prussian-American Friedrich List #person devised the National System in an effort to support free trade and free market economics, but protect domestic industry and goods by reintroducing select tariffs. This concept became known as protectionism.
 
-List argued that some state intervention was necessary to stimulate economic growth, but warned not to be overzealous. This meant the return of many tariffs that had disappeared in the early-mid 1800s, starting mostly with Bismark in Germany, and soon including all of Europe except Britain.
+List argued that some state intervention was necessary to stimulate economic growth, but warned not to be overzealous. This meant the return of many tariffs that had disappeared in the early-mid 1800s, starting mostly with [[Otto von Bismark]] in Germany, and soon including all of Europe except Britain.
 
-One example was in Germany in 1879, when Bismark and German landowners established the Tariff Agreement of 1879. This tariff was a tax on imported grain to protect German agriculture, as grain prices on imports from the US and Russia were driving German farms out of business.
+One example was in Germany in 1879, when Bismark and German landowners established the Tariff Agreement of 1879. This tariff was a tax on imported grain to protect German agriculture, as grain prices on imports from the US and Russia were driving German farms out of business. ^3dfd30
 
 ## Monopolies
 One of the policies held by governments in the mid-19th century was the support of large monopolies, or companies that controlled an entire industry. As governments began to support tariffs in the 1870s to prevent the negative impact of free trade, they also began to support monopolies.
@@ -57,3 +57,4 @@ Governments and corporations believed that one strong, consistent company contro
 Examples of state-supported. Monopolies can best be seen in the United States, with companies like Standard Oil controlling oil prices.
 
 In Europe, powerful merchant and production families, such as the Krupp family in Germany, dominated manufacturing until the 1950s. The Krupp family had begun making weapons in the [[Thirty Years’ War]] and continued doing so until after World War II.
+

@@ -27,12 +27,31 @@ Furthermore, Cesare Beccaria #person questioned the justice system in 1764. In h
 
 – Cesare Beccaria, _On Crimes and Punishments_ #quote 
 
+## Cultural Development
+When considering other cultures, [[Enlightenment]] society developed the ideals of Enlightenment universalism: the idea that all humans are born equal, despite appearance. They were only different in terms of how they evolved culturally and socially. For Enlightenment thinkers, white Europeans were the most advanced, and it was their duty to force others to emulate their culture so that they could be advanced and progressive as well.
+
+While Europeans saw their civilization as superior, they believed all human civilizations were on the same developmental path to social and technological harmony. Thinkers like Rousseau #person were strong believers in the above model of evolutionary social history, which justified racism against people of other cultures.
+
+They also believed in cultural relativism, the view that ethical and social standards reflect the cultural context from which they are derived. Cultural relativists uphold that cultures differ fundamentally from one another, and so do the moral frameworks that structure relations within different societies.
+
+Europeans also saw it as their duty to spread “civilization” and help develop non-Europeans, who were on the same path but at different phases. This approach gave Enlightenment thinkers the moral justification to invade and enslave other peoples with the purpose of “civilizing” them. These civilizational adventures resulted in the deaths of millions of people around the world.
+
+However, some Enlightenment universalists began to see slaves as innocent victims and moved to rid the world of slavery. Abolitionism, particularly in Britain, became socially fashionable as Christians and elite women and men sanctioned the elimination of slavery in the early and mid 19th centuries.
+
+Romantic poets attacked the institution of slavery with works such as *The Heart of Darkness* #book by Joseph Conrad #person in 1902. Essentially, they believed that there is little difference between so-called civilized people and those described as savages, thus raising questions about [[imperialism]]. 
+
+> You know I hate, detest, and can't bear a lie, not because I am straighter than the rest of us, but simply because it appals me. There is a taint of death, a flavour of mortality in lies - which is exactly what I hate and detest in the world - what I want to forget.
+
+– Joseph Conrad, *The Heart of Darkness*
+
+Due to cultural relativism, Europeans began to incorporate elements of foreign cultural art forms, such as the East Asian inspired style known as chinoiserie (chinese-like). Adoption of the Japanese style of block print was also popularized by renowned artists such as Vincent van Gogh.
+
 ## Enlightenment Art and Religion
 In opposition to the extravagance and glorification of Baroque art, Enlightenment art favored simple scenes and regular people. The neoclassical style used simple, dull styles and tones with select classical themes.
 
 Classical composers created a new type of music: symphony music, that was intended to be melodic and sophisticated. Vienna was the hotspot of this movement.
 
-German Pietism emphasized personal transformation thorugh spiritual rebirth and renewal, individual devotion, and piety laid in a personal connection, introspection, and liturgical [[Protestant Reformation#Lutheranism]]. It was founded by Philip Spencer #person in the 17th century.
+German Pietism emphasized personal transformation through spiritual rebirth and renewal, individual devotion, and piety laid in a personal connection, introspection, and liturgical [[Protestant Reformation#Lutheranism]]. It was founded by Philip Spencer #person in the 17th century.
 
 Novels became popular in everyday life. The importance of being educated, having good morals, and being polite was emphasized. Two examples of novels that were widely read were Samuel Richardson #person’s _Pamela_ #book and Jane Austen #person’s *Pride and Prejudice* #book.
 
@@ -44,7 +63,7 @@ Novelists like Goethe in Germany emphasized strong artistic emotions, depicting 
 Religiously, Methodism emerged in Christianity from the early romantic thought and theology of John Wesley #person. Methodism was essentially a religious revival driven by a close, personal, and highly emotional connection with god, thus linking it with early Romanticism.
 
 ## [[Reason]] Questioned
-Not all 18th century contemporaries were convinced of the primacy of Enlightenment rationality and reason. Rousseau #person, for example, is often considered an outlier and “idiot” of the Enlightenment as he openly rejected Enlightenment rationalitya s the sole determining force in society, arguing instead that emotion played a more pivotal role.
+Not all 18th century contemporaries were convinced of the primacy of Enlightenment rationality and reason. Rousseau #person, for example, is often considered an outlier and “idiot” of the Enlightenment as he openly rejected Enlightenment rationality as the sole determining force in society, arguing instead that emotion played a more pivotal role.
 
 Furthermore, Scottish Enlightenment thinker David Hume #person asserted that passion, rather than [[Reason]], governs human behavior. He was also a sentimentalist who held that ethics are based on emotion or sentiment rather than abstract moral principle, famously proclaiming that:
 

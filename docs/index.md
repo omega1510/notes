@@ -1,12 +1,9 @@
-# European History Obsidian Notes
+# AP European History Notes
 ---
 
-Notes for AP European History at [RISE Academy](https://riseacademy.education/), made with [Obsidian](https://obsidian.md).
-
-I would start with the [[Italian Renaissance]], and continue from there!
+Notes for AP European History at [RISE Academy](https://riseacademy.education/).
 
 ---
-
 ## Period 1
 1. [[Italian Renaissance]]
 1. [[Classics]]
@@ -63,3 +60,10 @@ I would start with the [[Italian Renaissance]], and continue from there!
 1. [[Anarchism]]
 1. [[Chartism]]
 1. [[Communism]]
+1. [[Social Changes]]
+1. [[New Conservatism]]
+1. [[Count Cavour]]
+1. [[Napoleon III]]
+1. [[Otto von Bismark]]
+1. [[Scientific Theories]]
+1. [[Imperialism]]

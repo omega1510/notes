@@ -8,12 +8,12 @@ Although aided during 1848, the Russians received no aid from Austria or Prussia
 
 The Crimean War not only ended the cooperative Concert, but it also exposed Russia’s lack of development, and would eventually force further reforms.
 
-## Unification of Italy #war, Italian City States
-With the Crimean War essentially ending the Concert of Europe, the door was opened for nationalist movements without fear of foreign intervention. Count Cavour #person of Italy would be one of the first to move for a complete re-unification of the long-separated Italian states.
+## Unification of Italy #war, Italian City-States
+With the Crimean War essentially ending the Concert of Europe, the door was opened for nationalist movements without fear of foreign intervention. [[Count Cavour]] #person of Italy would be one of the first to move for a complete re-unification of the long-separated Italian states.
 
 To do this, however, the separate governments in Italy would have to be convinced or conquered, Austria driven out, and the Italian nation unified by force. With the support of Italian citizens and the French, Cavour used the state of Piedmont to unite and fight for unification versus Austria-Hungary in the North.
 
-In the south, Giuseppe Garibaldi, swept through the south with a small army, and the two met in the middle to shake hands and unify Italy in 1860. While the pebble states would hold out against unification until 1871, the vast majority of Italy would be united by 1860.
+In the south, Giuseppe Garibaldi #person swept through with a small army, and the two met in the middle to shake hands and unify Italy in 1860. While the pebble states would hold out against unification until 1871, the vast majority of Italy would be united by 1860.
 
 ## Dual Monarchy, Austria-Hungary
 After the Concert ended, Austria was left on its own to fight the separatist will of the Hungarians, who were ethnic Magyars, and the Slavs within its empire. With conflicts and revolts growing too frequent in the 1850s and 1860s, the Austrian royal government made a compromise with Hungary.
@@ -27,7 +27,7 @@ Germany also attempted to unify their states in the mid 19th century. However, t
 
 In 1850, leaders of the German states had already attempted to unify with a constitutional meeting, called the Frankfurt Parliament. The disagreements between the North and South, combined with a rejection of the crown by the leader of Prussia, meant that there was no official union. However, the Northern Protestant German states did semi-unify under the Northern German Confederation in 1866.
 
-While the Northern German Confederation was already operating close to a unified country, it would take the threat of Napoleon III (nephew of [[Napoleon Bonaparte]]) to unify all the German states. This unification would come under the leadership of the strongest Germany state, Prussia, when disputes over territory would result in war with France. Fearing another French conquest of German lands under Napoleon III, the southern German states were convinced to join Prussia and the Northern German Confederation.
+While the Northern German Confederation was already operating close to a unified country, it would take the threat of [[Napoleon III]] #person (nephew of [[Napoleon Bonaparte]]) to unify all the German states. This unification would come under the leadership of the strongest Germany state, Prussia, when disputes over territory would result in war with France. Fearing another French conquest of German lands under [[Napoleon III]], the southern German states were convinced to join Prussia and the Northern German Confederation.
 
 Within 5 months, French armies were overrun, humiliated and defeated by superior German
 forces and coordination caused by the [[Railroads]] and [[Industrial Revolution#^018335|Zollverein]], and Paris was occupied by the Prussians. Known as the Franco-Prussian War #war, hostilities between France and Germany were soundly

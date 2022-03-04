@@ -21,4 +21,4 @@ Increased awareness of the working class’ poor conditions led to the governmen
 - **Mines Act of 1842** – No children under 10 could work underground in mines.
 - **Ten Hours Act of 1847** – The working day was limited to 10 hours for women and children in textile mills.
 
-New “conservatives” like Napoleon III (nephew of [[Napoleon Bonaparte]]) and Bismarck provided protections like the legalization of strikes, injury insurance, and retirement in order to appease the working class.
+[[New Conservatism|New conservatives]] like [[Napoleon III]] (nephew of [[Napoleon Bonaparte]]) and [[Otto von Bismark]] provided protections like the legalization of strikes, injury insurance, and retirement in order to appease the working class.
